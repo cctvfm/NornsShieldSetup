@@ -15,8 +15,6 @@ git clone https://github.com/justmat/pools.git
 git clone https://github.com/justmat/greyhole.git
 git clone https://github.com/justmat/compass.git
 git clone https://github.com/cfdrake/grendy.git
-git clone https://github.com/mimetaur/particle_grains.git
 git clone https://github.com/cfdrake/rudiments.git
-git clone https://github.com/21echoes/pedalboard.git
 
 echo "Hoorah!"
