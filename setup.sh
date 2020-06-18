@@ -4,7 +4,7 @@ echo "Expanding Filesystem"
 raspi-config --expand-rootfs
 echo "Success"
 echo "Cloning Scripts"
-cd ~/dust/code
+cd /home/we/dust/code
 git clone https://github.com/justmat/phyllis.git
 git clone https://github.com/justmat/showers.git
 git clone https://github.com/justmat/massif.git
