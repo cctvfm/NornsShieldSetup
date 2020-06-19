@@ -12,3 +12,7 @@ sudo su
 
 wget -O - https://raw.githubusercontent.com/cctvfm/NornsShieldSetup/master/setup.sh | bash
 ```
+Then reboot with a 
+```
+sudo reboot
+```
