@@ -10,4 +10,5 @@ ssh we@norns.local
 
 sudo su
 
-wget -O - https://raw.githubusercontent.com/cctvfm/NornsShieldSetup/master/setup.sh | bash```
+wget -O - https://raw.githubusercontent.com/cctvfm/NornsShieldSetup/master/setup.sh | bash
+```
