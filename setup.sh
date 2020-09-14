@@ -7,7 +7,6 @@ echo "Cloning Scripts"
 cd /home/we/dust/code
 git clone https://github.com/justmat/phyllis.git
 git clone https://github.com/justmat/showers.git
-git clone https://github.com/justmat/massif.git
 git clone https://github.com/justmat/mangl.git
 git clone https://github.com/justmat/bounds.git
 git clone https://github.com/justmat/otis.git
